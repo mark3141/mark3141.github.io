@@ -4,7 +4,7 @@ published: false
 ---
 layout: post
 title: My 2nd Post!
-published: false
+published: true
 ---
 
 ## A New Post
