@@ -1,9 +1,6 @@
 ---
-published: true
----
----
 layout: post
-title: My 2nd Post!
+title: Hello World! 
 ---
 
 ## A New Post
