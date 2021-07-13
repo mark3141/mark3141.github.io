@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World! 
+title: Second Post
 ---
 
 ## A New Post
